@@ -3,7 +3,7 @@
 
 <p>This project visualizes the distribution of a variable using a bar chart or histogram. The dataset used includes information about a population, such as ages or genders.</p>
 
-<img src="images/visualization_example.png" alt="Visualization" width="600">
+<img src="ss.png" alt="Visualization" width="600">
 
 <h2>📁 Dataset</h2>
 <p>The dataset contains information about a population, including variables such as age and gender.</p>
